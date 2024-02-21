@@ -19,7 +19,9 @@ public class Ex05 {
         int i3 = (i1 = i2); // 괄호 제거해도 같음
 
         String s1 = "ABC";
-        String s2 = "가나다";
+        String s2 = "가나다라";
         String s3 = (s1 = s2);
+
+
     }
 }
