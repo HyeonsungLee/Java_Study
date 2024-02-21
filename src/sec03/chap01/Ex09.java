@@ -3,7 +3,7 @@ package sec03.chap01;
 public class Ex09 {
     public static void main(String[] args) {
 
-        //  값을 바꿔가면서 실행해 볼 것
+        //  값을 바꿔가면서 실행해 볼 것.
         int int1 = 3;
         int int2 = 3;
 

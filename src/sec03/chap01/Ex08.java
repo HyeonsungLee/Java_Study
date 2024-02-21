@@ -11,7 +11,7 @@ public class Ex08 {
 
         int x = 1;
 
-        //  메서드 안으로도 '반환'되어 사용되는 것
+        //  메서드 안으로도 '반환'되어 사용되는 것.
         System.out.println(x++);
         System.out.println(++x);
         System.out.println(x);
